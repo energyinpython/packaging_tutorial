@@ -3,10 +3,10 @@ import sys
 import copy
 import random
 
-from additions import rank_preferences
-from correlations import *
-from weighting_methods import *
-from spotis import SPOTIS
+from .additions import rank_preferences
+from .correlations import *
+from .weighting_methods import *
+from .spotis import SPOTIS
 
 
 class DE_algorithm():
