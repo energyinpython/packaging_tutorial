@@ -5,12 +5,14 @@ setup.py
 src/example_package/__init__.py
 src/example_package/additions.py
 src/example_package/correlations.py
-src/example_package/de.py
 src/example_package/example.py
-src/example_package/mcdm_method.py
 src/example_package/normalizations.py
-src/example_package/spotis.py
 src/example_package/weighting_methods.py
+src/example_package/mcdm_methods/__init__.py
+src/example_package/mcdm_methods/mcdm_method.py
+src/example_package/mcdm_methods/spotis.py
+src/example_package/stochastic_algorithms/__init__.py
+src/example_package/stochastic_algorithms/de.py
 src/example_package_energyinpython.egg-info/PKG-INFO
 src/example_package_energyinpython.egg-info/SOURCES.txt
 src/example_package_energyinpython.egg-info/dependency_links.txt
