@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="example-package-energyinpython",
-    version="0.0.1",
+    version="0.0.2",
     author="Energy in Python",
     author_email="rubinn2@wp.pl",
     description="A small example package",
