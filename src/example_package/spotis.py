@@ -1,5 +1,5 @@
 import numpy as np
-from mcdm_method import MCDM_method
+from .mcdm_method import MCDM_method
 
 class SPOTIS(MCDM_method):
     def __init__(self):

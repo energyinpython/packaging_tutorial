@@ -1,6 +1,6 @@
 import numpy as np
-from correlations import *
-from normalizations import *
+from .correlations import *
+from .normalizations import *
 
 
 # entropy weighting

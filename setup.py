@@ -5,10 +5,10 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="example-package-energyinpython",
-    version="0.0.2",
+    version="0.0.3",
     author="Energy in Python",
     author_email="rubinn2@wp.pl",
-    description="A small example package",
+    description="A package for preferences identification and MCDM evaluation",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/energyinpython/packaging_tutorial",
