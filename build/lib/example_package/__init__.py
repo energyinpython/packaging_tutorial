@@ -1,5 +1,5 @@
 from .spotis import SPOTIS
-from .de import DE
+from .de import DE_algorithm
 
 from . import additions
 from . import correlations
