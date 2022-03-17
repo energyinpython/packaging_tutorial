@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: example-package-energyinpython
-Version: 0.0.6
+Version: 0.0.7
 Summary: A package for preferences identification and MCDM evaluation
 Home-page: https://github.com/energyinpython/packaging_tutorial
 Author: Energy in Python
